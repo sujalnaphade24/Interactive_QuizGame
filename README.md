@@ -17,6 +17,5 @@ An interactive quiz application defines an array of questions, each with multipl
 - Responsive UI
 
 ## Author
-
-Akanksha Saraf
+Sujal Naphade
 
